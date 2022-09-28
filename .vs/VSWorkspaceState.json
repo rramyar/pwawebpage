@@ -1,13 +1,10 @@
 {
   "ExpandedNodes": [
     "",
-    "\\.angular",
     "\\src",
-    "\\src\\assets",
-    "\\src\\assets\\icons",
-    "\\src\\assets\\icons\\android",
-    "\\src\\assets\\icons\\windows11"
+    "\\src\\app",
+    "\\src\\environments"
   ],
-  "SelectedNode": "\\src\\assets\\icons\\windows11\\LargeTile.scale-125.png",
+  "SelectedNode": "\\src\\app\\app.component.html",
   "PreviewInSolutionExplorer": false
 }
